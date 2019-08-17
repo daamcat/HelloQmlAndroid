@@ -1,3 +1,4 @@
+// Man injam! Ba SVN commit mikonam!
 #include <QGuiApplication>
 #include <QQmlApplicationEngine>
 #include <QtQml>

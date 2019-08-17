@@ -1,0 +1,8 @@
+<RCC>
+	<qresource>
+        <file>Cell.qml</file>
+        <file>CameraPage.qml</file>
+        <file>FileDialog.qml</file>
+        <file>main.qml</file>
+    </qresource>
+</RCC>
